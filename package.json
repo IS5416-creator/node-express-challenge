@@ -1,0 +1,17 @@
+{
+  "name": "express-challenge",
+  "version": "1.0.0",
+  "description": "backend part of the challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express.js": "^1.0.0"
+  }
+}

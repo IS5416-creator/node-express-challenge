@@ -1,0 +1,32 @@
+[
+{
+  "id": 1,
+  "name": "Bernie Bac",
+  "height": "172",
+  "birth_year": "1969"
+},
+{
+  "id": 2,
+  "name": "Michael B Jordan",
+  "height": "180",
+  "birth_year": "1990"
+},
+{
+  "id": 3,
+  "name": "Timothee Chalamet",
+  "height": "175",
+  "birth_year": "1996"
+},
+{
+  "id": 1,
+  "name": "Robert DeNiro",
+  "height": "165",
+  "birth_year": "1959"
+},
+{
+  "id": 1,
+  "name": "David Keaton",
+  "height": "182",
+  "birth_year": "1961"
+}
+]
